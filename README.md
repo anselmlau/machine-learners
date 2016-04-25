@@ -1,3 +1,3 @@
 # machine-learners
 
-Directory holds the IPython notebooks submitted in Kaggle competitions.
+Directory holds the IPython notebooks submitted to Kaggle competitions.
